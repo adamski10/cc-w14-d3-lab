@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import metronomeContainer from './containers/metronomeContainer';
+import MetronomeContainer from './containers/MetronomeContainer';
 
 function App() {
   return (
-    <metronomeContainer />
+    <MetronomeContainer />
   );
 }
 
